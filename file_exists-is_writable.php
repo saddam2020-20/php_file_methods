@@ -15,6 +15,7 @@ if (file_exists($file))
 {
    
 	echo " The File (<span> ".substr( substr($file, strlen(__dir__)+1) , 0,strpos( substr($file, strlen(__dir__)+1) ,"."))." </span> ) is Found";
+	file_put_contents($file, "Added From PHP ");
 	# code...
 }
 else
