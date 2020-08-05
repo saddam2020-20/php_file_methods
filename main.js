@@ -1,0 +1,5 @@
+
+function getFullDir ()
+{
+	alert("dd");
+}
