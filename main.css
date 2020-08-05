@@ -5,3 +5,17 @@ span
 	border-radius: 5px;
 	border-width: 2px;
 }
+
+input{
+        
+	        border-top-style: none;
+	        border-left-style: none;
+	        border-right-style: none;
+	        border-bottom-style: dotted;
+	        width: 59px
+	        
+    }
+ input:hover{
+        
+	        border-bottom-style: solid      
+    }

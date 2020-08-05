@@ -22,7 +22,7 @@ function isWritable($file)
 		 return array('true'," The File { ".$file." } is writable ");
 	}
 	else
-	return array('false'," But, sory File Not Writable Press 1 to make it writable... ");
+	return array('false'," But, sory File Not Writable Press 1 to make it writable ");
 
 }
 

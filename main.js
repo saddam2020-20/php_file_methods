@@ -1,5 +1,5 @@
 
-function getFullDir ()
+function getFullDir (name)
 {
-	alert("dd");
+	alert(name);
 }

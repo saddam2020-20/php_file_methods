@@ -29,7 +29,8 @@ else
 
 ?>
 
-<script type="text/javascript" ></script>
+
+<script type="text/javascript" src="main.js"></script>
 	
 
 </body>
