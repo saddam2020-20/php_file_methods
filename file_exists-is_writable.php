@@ -19,8 +19,8 @@ $file1 ='saddam.text';
 if ($result[0]=='false') {
     echo $result[1]. " 
             <script type=\"text/javascript\">
-            
-  document.body.appendChild(document.createElement('input'));
+            inp = document.createElement('input');
+            document.body.appendChild(inp);
             </script>
         ";
     }
