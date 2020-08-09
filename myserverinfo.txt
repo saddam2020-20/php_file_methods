@@ -1,0 +1,1 @@
+SEVER ADDRESS is : ::1<br> SEVER NAME is : localhost<br> SEVER PORT is : 80<br> SEVER SOFTWAREis : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.8<br> SEVER PROTOCOL is : HTTP/1.1<br> DOCUMENT ROOT is : C:/xampp/htdocs<br> HTTP REFERER is : http://localhost/PHP_project/fileMethods/php_file_methods/<br> SERVER ADMIN is : postmaster@localhost

@@ -1,5 +1,6 @@
 <?php
 
+
 $filename = 'saddam.txt';
 $file = fopen($filename,'r+');
 
